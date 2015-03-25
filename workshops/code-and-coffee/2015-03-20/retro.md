@@ -10,7 +10,7 @@
 - Several participants didn't grasp recursion before we moved on
 - More advanced participants started asking deeper questions
   - Pushed me to move faster, or skip sections
-- Some attendeed got stuck on the lack of argument brackets
+- Some attendees got stuck on the lack of argument brackets
 
 ## The Ugly
 - _Waaaaaaaaaaay_ too much information for 45 minutes
