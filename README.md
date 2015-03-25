@@ -5,3 +5,11 @@ Techniques, advice, and anecdotes how to teach functional programming
 - Current materials are "okay" _at best_
   - Yes, even LYAH
 - Goal: popularize FP
+
+## Contributing
+1. Fork the repo
+2. Write your post
+3. Submit a pull request
+
+## Have Suggestions?
+- Add to the GitHub Issues!
