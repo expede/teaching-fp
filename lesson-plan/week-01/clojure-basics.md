@@ -69,11 +69,11 @@
       y   ;; <~ Do this if x <  10
       z)) ;; <~ Do this if x >= 10
 
-(if-else-less-than-ten 9)
-;; => true
+(if-else-less-than-ten 9 "Hello" "Goodbye")
+;; => "Hello"
 
-(if-else-less-than-ten 42)
-;; => false
+(if-else-less-than-ten 42 "Hello" "Goodbye")
+;; => "Goodbye"
 
 (defn response [my-string]
   (case my-string
