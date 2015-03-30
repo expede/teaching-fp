@@ -63,6 +63,8 @@
 ### Definitions and Basic Control Flow
 ```clojure
 (def x 10)
+;; x
+;; => 10
 
 (defn if-else-less-than-ten [x y z]
   (if (< x 10)
