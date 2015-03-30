@@ -45,6 +45,10 @@
 - "One plus one is equal to 2"
 - "One plus one reduces to two"
 
+`2 = 1 + 1`
+- "Two equals one plus one"
+- **NB:** This is not reduction!
+
 `1 + 1 = 42 - 40`
 - "One plus one is equal to forty-two minus forty"
 - **NB:** This is not reduction!
