@@ -42,12 +42,12 @@
 
 ## Equivalence vs Reduction
 `1 + 1 = 2`
-"One plus one is equal to 2"
-"One plus one reduces to two"
+- "One plus one is equal to 2"
+- "One plus one reduces to two"
 
 `1 + 1 = 42 - 40`
-"One plus one is equal to forty-two minus forty"
-**NB:** This is not reduction!
+- "One plus one is equal to forty-two minus forty"
+- **NB:** This is not reduction!
 
 ### Graph Reduction
 
