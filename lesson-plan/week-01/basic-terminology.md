@@ -23,7 +23,7 @@ With no side effects, functions can be substituted with their return values
 - They are 100% equivalent (see equivalence below)
 
 ### Immutability
-Once something is defined, it cannot be changes
+Once something is defined, it cannot be changed
 - You "define" immutabile things
 - You "assign" and "reassign" mutable things
 - Immutability is "pure", becuase it never changes
