@@ -10,8 +10,6 @@
     - Normal Order
     - Applicative Order
 
-5. This week's problem:
-
 ## Value Proposition
 - _Will_ improve your imperative code
 - Expose you to new ideas, think about things differently
