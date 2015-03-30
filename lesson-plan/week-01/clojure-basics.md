@@ -66,8 +66,8 @@
 
 (defn switch-less-than-ten [x y z]
   (if (< x 10)
-      y
-      z))
+      y   ;; <~ True case
+      z)) ;; <~ False case
 
 (less-than-ten 9)
 ;; => true
