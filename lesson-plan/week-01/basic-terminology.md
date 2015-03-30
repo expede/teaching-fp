@@ -80,4 +80,5 @@ Functions are only called when another function needs something from them
 - Generally a language feature
 
 ### Strict
-When you call a function, it finishes calculating _all_ of its input, no matter what
+When you call a function, it finishes calculating _all_ of its values,
+  whether they're needed or not
