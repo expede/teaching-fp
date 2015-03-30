@@ -5,10 +5,10 @@
 2. Basic Terminology
 3. Referential Transparency
 4. Reduction
-  i. Graph reduction
-  ii. Evaluation Order
-    - Normal Order
-    - Applicative Order
+  - i. Graph reduction
+  - ii. Evaluation Order
+      - Normal Order
+      - Applicative Order
 
 ## Value Proposition
 - _Will_ improve your imperative code

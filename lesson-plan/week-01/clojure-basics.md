@@ -3,8 +3,8 @@
 ## Table of Contents
 1. Brief History
 2. Situating the language
-  i.  Not purely functional
-  ii. Lisp-1
+  - i.  Not purely functional
+  - ii. Lisp-1
 
 ## Clojure Overview
 - Practical
