@@ -46,7 +46,7 @@ Looks like this: `(+ (- 1 10) (* 8 42))`
 - Postfix: `1 1 +`, or `1 1 add`
 
 ### Reduction
-Simplify an expression by solving a part of it
+Simplify an expression by solving all (or part) of it
 - ex. `1 + 2 = 3` reduces `1 + 2` to `3`
 
 ### Equivalence
