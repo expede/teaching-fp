@@ -64,15 +64,15 @@
 ```clojure
 (def x 10)
 
-(defn switch-less-than-ten [x y z]
+(defn if-else-less-than-ten [x y z]
   (if (< x 10)
       y   ;; <~ Do this if x <  10
       z)) ;; <~ Do this if x >= 10
 
-(less-than-ten 9)
+(if-else-less-than-ten 9)
 ;; => true
 
-(less-than-ten 42)
+(if-else-less-than-ten 42)
 ;; => false
 
 (defn response [my-string]
