@@ -24,7 +24,7 @@
 - Immutability
 
 - S-expression
-  - Prefic notation
+  - Prefix notation
 - Reduction
 - Equivalence
 - Identity
@@ -40,7 +40,14 @@
 ## Referential Tranparency
 - With no side effects, calculated values can be substituted for
 
-## Reduction
+## Equivalence vs Reduction
+`1 + 1 = 2`
+"One plus one is equal to 2"
+"One plus one reduces to two"
+
+`1 + 1 = 42 - 40`
+"One plus one is equal to forty-two minus forty"
+**NB:** This is not reduction!
 
 ### Graph Reduction
 
