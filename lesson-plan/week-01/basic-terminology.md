@@ -38,6 +38,11 @@ With no side effects, calculated values can be substituted for the functions,
 "Symbolic expression"
 - Note "expression", like in math
 
+Looks like this:
+```lisp
+(+ (- 1 10) (* 8 42))
+```
+
 ### Prefix notation ("Polish notation", or "PN")
 - Infix: `1 + 1`
 - Prefix: `+ 1 1`, or `add 1 1`
