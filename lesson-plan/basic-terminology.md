@@ -57,7 +57,8 @@ A particular thing, not just its value
 - "That one"
 
 ### Equivalence vs Reduction
-`1 + 1 = 2`
+`1 + 1 =  2`
+`1 + 1 -> 2`
 - "One plus one is equal to 2"
 - "One plus one reduces to two"
 
@@ -69,7 +70,8 @@ A particular thing, not just its value
 - "One plus one is equal to forty-two minus forty"
 - **NB:** This is not reduction!
 
-`1 + 1 + 1 = 2 + 1`
+`1 + 1 + 1 -> 2 + 1`
+`1 + 1 + 1 =  2 + 1`
 - This **is** reduction
 
 ## Laziness
