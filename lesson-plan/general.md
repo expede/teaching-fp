@@ -47,3 +47,4 @@
 1. Java <= 1.6
 2. `leiningen` (`brew install leiningen`)
 3. A text editor (`emacs`, `vim`,`nano`, SublimeText, Atom, BBEdit, etc)
+  - [LightTable](http://lighttable.com) has several nice Clojure-related functions, such as inline evaluation
