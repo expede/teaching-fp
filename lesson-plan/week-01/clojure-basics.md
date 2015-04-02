@@ -2,9 +2,7 @@
 
 ## Table of Contents
 1. Brief History
-2. Situating the language
-  - i.  Not purely functional
-  - ii. Lisp-1
+2. [Situating the language](http://clojure.org/lisps)
 
 ## Clojure Overview
 - Practical
@@ -61,6 +59,7 @@
 
 ### Definitions and Basic Control Flow
 ```clojure
+;; Define a var
 (def foo 10)
 ;; foo
 ;; => 10
