@@ -12,11 +12,10 @@
   - Clear (is a Lisp)
   - Good existing resources
   - Awesome frameworks that people can use _now_
-- Hickey developed Clojure because he wanted a modern Lisp for
-  functional programming, symbiotic with the established Java platform,
-  and designed for concurrency [via Wikipedia]
+- A modern Lisp
+- Symbiotic with the established Java platform
+- Designed for concurrency
 - Lazy sequences
-- Java integration (runs on the JVM)
 - Immutable, persistent data structures
 - Good REPL
   - [Online](http://www.tryclj.com)

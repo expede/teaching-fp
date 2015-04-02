@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. Value Proposition
-2. Basic Terminology
+2. Weekly Basic Terms
 3. Clojure Basics
 4. Exercises
 
@@ -11,11 +11,7 @@
 - Expose you to new ideas, think about things differently
 - Concurrency & parallelism made easy! Well, _easier_...
 - Often shorter clear, clean, concise code
+- Easy to reason about
 - The dream of Object Orientation successfully realized in a different form
   - Code reuse
   - Cleanliness
-
-## Very roughly
-- Hit them with a bunch of terminology
-- Show them some basic Clojure
-- Give a simple exercise
