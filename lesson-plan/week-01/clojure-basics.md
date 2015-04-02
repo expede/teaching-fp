@@ -3,6 +3,7 @@
 ## Table of Contents
 1. Brief History
 2. [Situating the language](http://clojure.org/lisps)
+  - Clojure is a Lisp
 
 ## Clojure Overview
 - Practical
