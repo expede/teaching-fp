@@ -9,6 +9,7 @@
 - [What I Wish I Knew Before Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 ## Blogs
+- [Teaching Haskell to a 10 Year Old](https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/)
 - [24 Days of Haskell](https://ocharles.org.uk/blog/)
 - [Haskell for All](http://www.haskellforall.com)
 - [FP Complete Blog](https://www.fpcomplete.com/blog/)
