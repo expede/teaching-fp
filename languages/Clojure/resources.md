@@ -1,4 +1,6 @@
 # Clojure Resources
+## GitHub Repos
+- [Awesome Clojure](https://github.com/mbuczko/awesome-clojure)
 
 ## Websites
 - [Clojure Homepage](http://clojure.org/)
