@@ -1,6 +1,7 @@
 # Haskell Learning Resources
 ## GitHub Repos
 - [Haskell Must Watch](https://github.com/drKraken/haskell-must-watch)
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell)
 
 ## Websites
 - [Haskell Homepage](https://www.haskell.org)
