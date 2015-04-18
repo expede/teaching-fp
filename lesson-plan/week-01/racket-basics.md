@@ -78,5 +78,5 @@
     "Hello"   "How's it going?"
     "Bye"     "Leaving so soon?"
     "Go away" "No!"
-    "Huh?")) ;; Default
+    "Huh?")) ; Default
 ```

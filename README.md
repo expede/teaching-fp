@@ -10,6 +10,18 @@ syntax (ie: not from the C-family).
 1. Don't scare off newcomers
 2. Help popularize FP by helping people teach effectively
 
+## Strategy
+- Keep it practical
+- Use a flexible language ([Racket](http://racket-lang.org)) so that you don't
+need to switch syntax for different concepts
+- Progressive
+  - Start similar to the student's background (ex. compare to Java)
+- Less magic is more understandable
+  - Reimplement common patterns to show how things work
+    - `map`, `foldl`, `foldr` and `filter` from scratch
+  - Compare to imperative language strategy
+    - Loops vs recursion
+
 ## Contributing
 1. Fork the repo
 2. Write your post
