@@ -1,12 +1,12 @@
 # Weekly Exercises
 
 ## Goal
-Get used to the basics of Clojure syntax
+Get used to the basics of Racket syntax
 
 ## Exercise #1
-Write a `my-cube` function, that satisfies:
+Write a `my-cube` procedure, that satisfies:
 
-```clojure
+```racket
 (my-cube 0)   ;; => 0
 (my-cube -1)  ;; => -1
 (my-cube 2)   ;; => 8
@@ -14,9 +14,9 @@ Write a `my-cube` function, that satisfies:
 ```
 
 ## Exercise #2
-Write an `my-even?` function in Clojure, that satisfies:
+Write an `my-even?` procedure, that satisfies:
 
-```clojure
+```racket
 (my-even? 0)       ;; => true
 (my-even? 99)      ;; => false
 (my-even? 42)      ;; => true
@@ -24,10 +24,10 @@ Write an `my-even?` function in Clojure, that satisfies:
 ```
 
 ## Exercise #3
-Write an `compare-num` function, that satisfies:
+Write an `compare-num` procedure, that satisfies:
 
-```clojure
-(compare-num 0 1)         ;; => :greater
-(compare-num 999 -82)     ;; => :lesser
-(compare-num 42 (* 2 21)) ;; => :equal
+```racket
+(compare-num 0 1)         ;; => 'greater
+(compare-num 999 -82)     ;; => 'lesser
+(compare-num 42 (* 2 21)) ;; => 'equal
 ```

@@ -40,11 +40,12 @@
 - "Functional Friday"... but Thurdays >.>
   - "Transparent Tuesday"?
   - "Typed Tuesdays" for Haskell/Scala? :P
-- Pedegogical language: Clojure
+- Pedegogical language: [Racket](http://racket-lang.org)
 - Write some examples in Ruby & JavaScript
 
 ## You Will Need...
-1. Java <= 1.6
-2. `leiningen` (`brew install leiningen`)
-3. A text editor (`emacs`, `vim`,`nano`, SublimeText, Atom, BBEdit, etc)
-  - [LightTable](http://lighttable.com) has several nice Clojure-related functions, such as inline evaluation
+1. Racket
+  - [Installer](http://download.racket-lang.org)
+  - Brew: `brew cask install racket`
+2. A text editor (`emacs`, `vim`,`nano`, SublimeText, Atom, BBEdit, lighttable, etc)
+  - The Racket platform comes with DrRacket, which has a few nice Racket-centric features
