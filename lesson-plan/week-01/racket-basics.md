@@ -19,6 +19,10 @@
 
 ## Basic Syntax
 ```racket
+;; Every racket file starts with declaring the Racket variant
+;; We're just going to use the "normal" one
+#lang racket
+
 ;; S-expression ("symbolic expression")
 (function-name arg-1 arg-2 arg-3 ... arg-n)
 
