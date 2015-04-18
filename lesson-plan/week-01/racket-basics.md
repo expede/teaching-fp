@@ -37,7 +37,8 @@
   (do-stuff-here))
 
 ;; Evaluate a procedure
-(print "Hello, World!");; => Hello, World!
+(print "Hello, World!")
+;; => Hello, World!
 ```
 
 ### Arithmatic
