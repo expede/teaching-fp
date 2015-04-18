@@ -16,7 +16,7 @@ syntax (ie: not from the C-family).
 need to switch syntax for different concepts
 - Progressive
   - Start similar to the student's background (ex. compare to Java)
-- Less magic is literally demystifying
+- Less magic is *literally* demystifying
   - Reimplement common patterns to show how things work
     - `map`, `foldl`, `foldr` and `filter` from scratch
   - Compare to imperative language strategy
