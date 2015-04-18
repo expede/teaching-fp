@@ -26,7 +26,7 @@
 ## Courses
 - [NICTA](https://github.com/NICTA/course)
 - [CIS 194](http://www.seas.upenn.edu/%7Ecis194/spring13/lectures.html)
-- 
+
 ## Lists of Lists
 - [Haskell.org Documentation Links](https://www.haskell.org/documentation)
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell)
