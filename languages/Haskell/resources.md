@@ -4,7 +4,7 @@
 
 ## Websites
 - [Haskell Homepage](https://www.haskell.org)
-- [Official Wiki](https://wiki.haskell.org)
+- [Official Haskell Wiki](https://wiki.haskell.org)
 - [Hoogle](https://www.haskell.org/hoogle/)
 - [What I Wish I Knew Before Learning Haskell](http://dev.stephendiehl.com/hask/)
 
