@@ -65,7 +65,7 @@ in front of it. This is useful later in the course. Don't worry about it for now
   - There are array analogs in most languages
   - Finding an element by index requires passing through all of the elements before
   what you're looking for, which is inefficient
-  - O(n)
+    - O(n)
 
 ## 3. Linear Recursion
 There's a bunch of version of recursion that we'll be looking at later in
