@@ -8,7 +8,7 @@
 ## 1. Switching to Scheme
 - This is just here for completeness
 - We were using Clojure last week, but are switching for a variety of reasons
-  - See [Racket Overview in `racket-basics.md`](https://github.com/expede/teaching-fp/blob/master/lesson-plan/week-01/racket-basics.md#racket-overview)
+  - See [Strategy in the project README](https://github.com/expede/teaching-fp#strategy)
 
 ## 2. Lists
 "Lists" are analogous to [linked lists](http://en.wikipedia.org/wiki/Linked_list),
