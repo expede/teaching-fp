@@ -52,6 +52,21 @@ in front of it. This is useful later in the course. Don't worry about it for now
 (first (rest foo)) ;=> 2
 ```
 
+### Advantages
+- Very simple structure
+- Mirrors S-expression structure
+- Good for teaching :P
+  - Is a simple version of more advanced data structures
+  - Can reuse portion of the list immutably (without destroying the original)
+    - ex. `(cons 1 (rest list))`
+
+### Disadvantages
+- Despite that you want them to be, this is not an array
+  - There are array analogs in most languages
+  - Finding an element by index requires passing through all of the elements before
+  what you're looking for, which is inefficient
+  - O(n)
+
 ## 3. Linear Recursion
 There's a bunch of version of recursion that we'll be looking at later in
 the course, but the simplest is running through a list (a recursive structure).
