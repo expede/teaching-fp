@@ -3,7 +3,8 @@
 ## Table of Contents
 1. Switching to Scheme
 2. Lists
-3.
+3. Linear Recursion
+4. `map`
 
 ## 1. Switching to Scheme
 - This is just here for completeness
@@ -76,10 +77,12 @@ the course, but the simplest is running through a list (a recursive structure).
 Let's only worry about lists for now ;)
 
 ```racket
-(define baz '(1 2 3))
-
 (define (my-map func list)
   (cons
     (func (first list))
     (my-map func (rest list))))
+
+(define (double num) (* num 2)) ; As example
+
+(my-map double '(1 2 3)) ;=> '(2 4 6)
 ```
