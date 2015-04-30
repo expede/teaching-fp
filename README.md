@@ -18,7 +18,7 @@ need to switch syntax for different concepts
   - Start similar to the student's background (ex. compare to Java)
 - Less magic is *literally* demystifying
   - Reimplement common patterns to show how things work
-    - `map`, `foldl`, `foldr` and `filter` from scratch
+    - `map`, `fold` (left and right), `scan` and `filter` from scratch
   - Compare to imperative language strategy
     - Loops vs recursion
 
