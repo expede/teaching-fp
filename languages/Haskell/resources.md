@@ -4,10 +4,12 @@
 
 ## Websites
 - [Haskell Homepage](https://www.haskell.org)
+- [Official Haskell Wiki](https://wiki.haskell.org)
 - [Hoogle](https://www.haskell.org/hoogle/)
 - [What I Wish I Knew Before Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 ## Blogs
+- [Teaching Haskell to a 10 Year Old](https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/)
 - [24 Days of Haskell](https://ocharles.org.uk/blog/)
 - [Haskell for All](http://www.haskellforall.com)
 - [FP Complete Blog](https://www.fpcomplete.com/blog/)
@@ -25,3 +27,9 @@
 ## Courses
 - [NICTA](https://github.com/NICTA/course)
 - [CIS 194](http://www.seas.upenn.edu/%7Ecis194/spring13/lectures.html)
+
+## Lists of Lists
+- [Haskell.org Documentation Links](https://www.haskell.org/documentation)
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+- [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
+- [Essential Haskell Reading List](http://www.stephendiehl.com/posts/essential_haskell.html)

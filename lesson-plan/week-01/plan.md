@@ -3,7 +3,7 @@
 ## Table of Contents
 1. Value Proposition
 2. Weekly Basic Terms
-3. Clojure Basics
+3. Racket Basics
 4. Exercises
 
 ## Value Proposition
