@@ -1,6 +1,7 @@
 # Similar Projects
 ## Blog Posts
 - [Functional Education (bitemyapp)](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
+  - Very good links and reviews of the same
 
 ## GitHub
 - [ClojureBridge](https://github.com/ClojureBridge)
