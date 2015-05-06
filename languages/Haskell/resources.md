@@ -31,3 +31,4 @@
 ## Lists of Lists
 - [Haskell.org Documentation Links](https://www.haskell.org/documentation)
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+- [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
