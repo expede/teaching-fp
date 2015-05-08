@@ -2,9 +2,8 @@
 
 Please submit a pull request with any questions, comments or general feedback
 
-## Jenn's Feedback after week-01
+## Week 1
 
-### Lesson
 - Setup was simple
 - Enjoyed the walkthrough of basic principles
 - Glad I was able to ask questions as we went through
