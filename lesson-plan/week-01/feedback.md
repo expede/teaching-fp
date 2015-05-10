@@ -1,7 +1,4 @@
 # Feedback
-
-Please submit a pull request with any questions, comments or general feedback
-
 ## Week 1
 
 - Setup was simple

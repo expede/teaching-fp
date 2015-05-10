@@ -9,3 +9,6 @@
 
 ## Wiki Entries
 - [Free Structure on Haskell.org](https://wiki.haskell.org/Free_structure)
+
+## Stack Overflow
+- [What is the "Free Monad + Interpreter" pattern?](http://programmers.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern)
