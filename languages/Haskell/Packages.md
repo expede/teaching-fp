@@ -16,10 +16,12 @@
 - [How to Cabal Install](https://www.fpcomplete.com/user/simonmichael/how-to-cabal-install)
 
 #### Cabal Hell
+- [What's the reason behind cabal (dependency) hell?](http://stackoverflow.com/questions/25869041/whats-the-reason-behind-cabal-dependency-hell) (Stack Overflow)
 - How We Might Abolish Cabal Hell
   - [Part One](http://www.well-typed.com/blog/2014/09/how-we-might-abolish-cabal-hell-part-1/)
   - [Part Two](http://www.well-typed.com/blog/2014/09/how-we-might-abolish-cabal-hell-part-2/)
   - Part Three (forthcoming)
+- [Cabal Survival](https://wiki.haskell.org/Cabal/Survival)
 
 ### Nix
 - [How I Develop With Nix](https://ocharles.org.uk/blog/posts/2014-02-04-how-i-develop-with-nixos.html)
