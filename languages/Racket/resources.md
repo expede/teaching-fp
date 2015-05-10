@@ -14,3 +14,6 @@
 
 ## Specialized Editor
 - [DrRacket](http://docs.racket-lang.org/drracket/)
+
+## Compile to JavaScript
+- [Whalesong](https://www.hashcollision.org/whalesong/)
