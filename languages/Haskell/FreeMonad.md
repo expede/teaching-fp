@@ -14,4 +14,4 @@
 - [What is the "Free Monad + Interpreter" pattern?](http://programmers.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern)
 
 ## Course Materials
-- [￼How to build a monadic interpreter in one day](https://wiki.haskell.org/wikiupload/c/c6/ICMI45-paper-en.pdf)(PDF)
+- [￼How to build a monadic interpreter in one day](https://wiki.haskell.org/wikiupload/c/c6/ICMI45-paper-en.pdf) (PDF)
