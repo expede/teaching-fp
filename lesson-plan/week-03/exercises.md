@@ -1,5 +1,5 @@
 # Exercises
-## Tree `map`
+## `deep-map`
 Using what you have learned and a little ingenuity, write a procedure that `map`s
 over trees (ie: nested lists)
 - Turns empty lists to `0`
@@ -8,6 +8,6 @@ over trees (ie: nested lists)
 
 Example usage:
 ```racket
-(map foo '[[] 1 2 [3 4 5] [[6 7] [8 9] #\a]])
+(deep-map foo '[[] 1 2 [3 4 5] [[6 7] [8 9] #\a]])
 ;;=> '[0 2 4 [6 8 10] [[12 14] [16 18] 20]]
 ```
