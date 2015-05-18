@@ -20,4 +20,5 @@
 - Free Monads for Less
   - [Part 1](http://comonad.com/reader/2011/free-monads-for-less/)
   - [Part 2](http://comonad.com/reader/2011/free-monads-for-less-2/)
+  - [Part 3](http://comonad.com/reader/2011/free-monads-for-less-3/)
 - [Package: free](http://shared.botis.org/slides/free.pdf)
