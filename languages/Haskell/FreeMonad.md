@@ -15,3 +15,9 @@
 
 ## Course Materials
 - [￼How to build a monadic interpreter in one day](https://wiki.haskell.org/wikiupload/c/c6/ICMI45-paper-en.pdf) (PDF)
+- 
+## Discussion with Church Encoding (better performance)
+- Free Monads for Less
+  - [Part 1](http://comonad.com/reader/2011/free-monads-for-less/)
+  - [Part 2](http://comonad.com/reader/2011/free-monads-for-less-2/)
+- [Package: free](http://shared.botis.org/slides/free.pdf)
