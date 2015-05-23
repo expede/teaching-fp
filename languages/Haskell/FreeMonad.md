@@ -6,6 +6,7 @@
 - [Free Monad Transformers](http://www.haskellforall.com/2012/07/free-monad-transformers.html)
 - [Cool Idea: Free Monads for Testing Redis Calls](http://michaelxavier.net/posts/2014-04-27-Cool-Idea-Free-Monads-for-Testing-Redis-Calls.html)
 - [A language and its interpretation - Learning free monads](http://debasishg.blogspot.ca/2013/01/a-language-and-its-interpretation.html)
+  - I found this particularily useful
 
 ## Wiki Entries
 - [Free Structure on Haskell.org](https://wiki.haskell.org/Free_structure)
