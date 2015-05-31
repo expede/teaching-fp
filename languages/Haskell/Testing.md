@@ -21,6 +21,7 @@
 
 ### Tutorials
 - [A Quick Introduction to QuickCheck Testing](https://www.fpcomplete.com/user/pbv/an-introduction-to-quickcheck-testing)
+- [A brief intro to QuickCheck](http://www.stuartgunter.org/intro-to-quickcheck/)
 
 ## SmallCheck
 - [Repo](https://github.com/feuerbach/smallcheck)
