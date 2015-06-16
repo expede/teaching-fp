@@ -11,13 +11,14 @@
 - [Grimoire - Community Clojure Documentation](http://conj.io/)
 - [4clojure](https://www.4clojure.com/)
 
-## Tutorials
+## Tutorials & Guides
 
 - [Clojure for the Brave and True](http://www.braveclojure.com)
 - [ClojureScript Quick Start](https://github.com/clojure/clojurescript/wiki/Quick-Start)
 - [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
 - [Clojure Koans](http://clojurekoans.com/)
 - [LabREPL](https://github.com/relevance/labrepl)
+- [Clojure By Example](https://kimh.github.io/clojure-by-example/#symbol)
 
 ## Books
 - [The Joy of Clojure](http://www.joyofclojure.com/)
