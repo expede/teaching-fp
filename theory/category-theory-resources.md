@@ -6,3 +6,6 @@
 - [Yann Esposito's Category Theory Presentation](http://yogsototh.github.io/Category-Theory-Presentation/)
   - Very clear!
 - [An introduction to Category Theory for Software Engineers](http://www.cs.toronto.edu/~sme/presentations/cat101.pdf)
+
+## Courses
+- [Category Theory for Scientists](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/index.htm)
