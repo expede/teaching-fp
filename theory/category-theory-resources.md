@@ -9,3 +9,4 @@
 
 ## Courses
 - [Category Theory for Scientists](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/index.htm)
+  - Talks about ologs, which are a powerful categorical abstraction with database applications (among many others)
