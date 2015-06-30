@@ -1,6 +1,7 @@
 # OCaml Resources
 ## Websites
 - [Official OCaml Project Page](https://ocaml.org)
+- [Try OCaml](http://try.ocamlpro.com)
 - [OPAM (OCaml Package Manager)](http://opam.ocamlpro.com)
 - [Intro to OCaml](http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html)
 - [Unreliable Guide to OCaml Modules](http://lambdafoo.com/blog/2015/05/15/unreliable-guide-to-ocaml-modules/)
