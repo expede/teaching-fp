@@ -22,3 +22,6 @@
 - [Phoenix (Web framework)](http://www.phoenixframework.org/)
 - [Poison (JSON)](https://github.com/devinus/poison)
 - [Ecto (Dabatase wrapper and query language)](https://github.com/elixir-lang/ecto)
+
+## Videos
+- [Introduction to Elixir for Rubyists](https://www.youtube.com/watch?v=XbD1Emhm31w)
