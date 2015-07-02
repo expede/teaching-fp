@@ -23,5 +23,6 @@
 - [Poison (JSON)](https://github.com/devinus/poison)
 - [Ecto (Dabatase wrapper and query language)](https://github.com/elixir-lang/ecto)
 
-## Videos
+## Coming from Ruby
 - [Introduction to Elixir for Rubyists](https://www.youtube.com/watch?v=XbD1Emhm31w)
+- [Ruby and Elixir](https://www.youtube.com/watch?v=t64A4p3pp80)
