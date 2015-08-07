@@ -40,3 +40,6 @@
 - [Yogthos](http://yogthos.net/archives.html)
 - [Swanodette (David Nolen)](http://swannodette.github.io/)
 - [Clojure TV](https://www.youtube.com/user/ClojureTV)
+ 
+## Lists of Lists
+- [Ultimate Guide to Learning Clojure for Free](http://www.lispcast.com/ultimate-guide-to-learning-clojure-for-free)
