@@ -18,6 +18,7 @@
 
 ## QuickCheck
 - [Repo](https://github.com/nick8325/quickcheck)
+- [QuickCheck Manual](http://www.cse.chalmers.se/~rjmh/QuickCheck/manual.html)
 
 ### Tutorials
 - [A Quick Introduction to QuickCheck Testing](https://www.fpcomplete.com/user/pbv/an-introduction-to-quickcheck-testing)
