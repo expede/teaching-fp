@@ -33,6 +33,7 @@
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell)
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
 - [Essential Haskell Reading List](http://www.stephendiehl.com/posts/essential_haskell.html)
+- [dohaskell](http://www.dohaskell.com)
 
 ## Coming from other languages
 - [Haskell for OCaml Programmers](http://science.raphael.poss.name/haskell-for-ocaml-programmers.html)
