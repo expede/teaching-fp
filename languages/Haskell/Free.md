@@ -1,3 +1,6 @@
+# Free Applicative Resources
+- [Flavours of Free Applicative Functors](https://ro-che.info/articles/2013-03-31-flavours-of-free-applicative-functors)
+
 # Free Monad Resources
 
 ## Blog Posts
