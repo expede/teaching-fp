@@ -8,3 +8,6 @@
 ## Papers
 - [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 - [Notions of computation and monads](http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf)
+
+## Presentations
+- [The Origins of Monadic and Comonadic Computations](http://tpetricek.github.io/Talks/2015/pwl-monads-comonads/prague/#/)
