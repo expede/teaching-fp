@@ -5,3 +5,6 @@
 
 ## `data`/`type`/`newtype`
 - [Why is there “data” and “newtype” in Haskell?](http://stackoverflow.com/questions/2649305/why-is-there-data-and-newtype-in-haskell)
+
+## Misc
+- [Four months with Haskell](https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/)
